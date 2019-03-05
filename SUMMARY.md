@@ -1,12 +1,11 @@
 # Summary
 
-* [Introduction](README.md)  
-
+* [Introduction](README.md)
 * [《C++primer》阅读笔记](ch0/preface.md)
-  * [检索实操](ch0/RepSearchPractice.md)
-    * fwe1
-      * fwe1
+  * [第一部分](ch0/RepSearchPractice.md)
+    * [变量与基本类型](ch0/bian-liang-yu-ji-ben-lei-xing.md)
 
+  * 第二部分
   * [基础任务](ch0/RepTaskBasic.md)
   * [进阶任务](ch0/RepTaskAdvanced.md)
   * [个人教程](ch0/handbook.md)
@@ -42,10 +41,6 @@
   * [个人教程](ch6/handbook.md)
 * [结业大作业](ch8/README.md)
   * [个人教程](ch8/handbook.md)
-* [备注](ps/handbooks.md)
-* [参考文献](ps/ref.md)
-* [致谢](ps/thanks.md)
-* [后记](no_end/postscript.md)
 
 
 
